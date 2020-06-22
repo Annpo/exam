@@ -1,0 +1,66 @@
+{
+  "motherboard": [
+    {
+      "id": 1,
+      "title": "ASUS",
+      "payment": 3500,
+      "link": "mospolytech.ru"
+    },
+    {
+      "id": 1,
+      "title": "ASUS",
+      "payment": 3500,
+      "link": "mospolytech.ru"
+    },
+    {
+      "id": 2,
+      "title": "GIGABYTE",
+      "payment": "123123",
+      "link": "asd.ru"
+    },
+    {
+      "id": 3,
+      "title": "INETL",
+      "payment": "123123",
+      "link": "asd.ru"
+    }
+  ],
+  "processors": [
+    {
+      "id": 1,
+      "title": "Intel",
+      "payment": 35003,
+      "link": "mospolytech.ru"
+    },
+    {
+      "id": 2,
+      "title": "AMD",
+      "payment": 35300,
+      "link": "mospolytech.ru"
+    },
+    {
+      "id": 3,
+      "title": "Intel core",
+      "payment": "123123",
+      "link": "asdsad.ux"
+    },
+    {
+      "id": 4,
+      "title": "Amd 2",
+      "payment": "213",
+      "link": "dasd.ua"
+    },
+    {
+      "id": 5,
+      "title": "intel core i5",
+      "payment": "90000",
+      "link": "mospolytech.ru"
+    },
+    {
+      "id": 6,
+      "title": "AMD RADEON",
+      "payment": "50000",
+      "link": "mospolytech.ru"
+    }
+  ]
+}
